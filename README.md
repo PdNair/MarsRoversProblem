@@ -15,6 +15,7 @@ Your goal is to navigate the robot and print the final position.
 Example:
 Input:
 5x5
+
 FFRFLFLF
 Result:
 1,4,West
