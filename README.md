@@ -17,6 +17,7 @@ Example:
 Input:
 
 5x5
+
 FFRFLFLF
 
 Result: 
