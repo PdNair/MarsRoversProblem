@@ -17,9 +17,11 @@ Example:
 Input:
 
 5x5
+
 FFRFLFLF
 
-Result: 1,4,West
+Result: 
+1,4,West
 
 * There is no limit for the Plateau size
 * Inputs will always be valid, so there is no need to validate them
